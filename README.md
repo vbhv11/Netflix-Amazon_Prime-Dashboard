@@ -26,10 +26,19 @@ An interactive Power BI dashboard analyzing 18,000+ movies and TV shows from Ama
 
 ## Screenshots
 
-![Dashboard Screenshot](Screenshots/Overview.jpg)
+<img src="./Screenshots/Overview.JPG" alt="Dashboard Screenshot" width="600"/>
+
 
 ## License
 
-Distributed for educational and analytical purposes. Please attribute if sharing or adapting.
+This project is licensed under the [MIT License](./LICENSE). Distributed for educational and analytical purposes. Please attribute if sharing or adapting.
+
+
+## Author
+Vaibhav Gupta
+Connect with me on [LinkedIn](https://www.linkedin.com/in/vaibhav-gupta-277b03245/) | [Email](vaibhavgupta9149@gmail.com)
+
+## Star this repo
+If you found this project helpful, please consider giving it a ⭐ on GitHub!
 
 ---
